@@ -73,8 +73,10 @@
 ## 이미지 넣기
     이미지의 경우 소괄호(()) 안에 이미지의 URL을 넣으면 적용됩니다.
     캡션을 넣으시고 싶은 경우에는 파일 링크 앞에 느낌표와 대괄호를 이용하여 적습니다(![])
-    ex) ![테스트이미지](https://github.com/cliche90/markdown_tutorial/blob/master/github_logo.png?raw=true)
-![깃헙 이미지](https://github.com/cliche90/markdown_tutorial/blob/master/github_logo.png?raw=true)
+    ex) ![테스트이미지](https://github.com/201524495/Markdown_Guid/blob/main/github_logo.png)
+    ![github_logo](https://user-images.githubusercontent.com/49744580/104023246-b7af5500-5204-11eb-9b82-a85b4a1a16c1.png)
+    ![pepe](https://user-images.githubusercontent.com/49744580/104023252-b9791880-5204-11eb-9989-0c8a40c23738.png)
+![깃헙 이미지](https://github.com/201524495/Markdown_Guid/blob/main/github_logo.png)
 
 
 
