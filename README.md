@@ -75,8 +75,10 @@
     캡션을 넣으시고 싶은 경우에는 파일 링크 앞에 느낌표와 대괄호를 이용하여 적습니다(![])
     ex) ![테스트이미지](https://github.com/201524495/Markdown_Guid/blob/main/github_logo.png)
     ex) ![테스트이미지](https://github.com/201524495/Markdown_Guid/blob/main/pepe.png)
+    Issue를 통해 만든 웹 이미지
     ex) ![github_logo](https://user-images.githubusercontent.com/49744580/104023246-b7af5500-5204-11eb-9b82-a85b4a1a16c1.png)
     ex) ![pepe](https://user-images.githubusercontent.com/49744580/104023252-b9791880-5204-11eb-9989-0c8a40c23738.png)
+
 <div>
 ![깃헙 이미지](https://github.com/201524495/Markdown_Guid/blob/main/github_logo.png)
 ![페페 이미지](https://github.com/201524495/Markdown_Guid/blob/main/pepe.png)
@@ -85,6 +87,7 @@
 ![github_logo](https://user-images.githubusercontent.com/49744580/104023246-b7af5500-5204-11eb-9b82-a85b4a1a16c1.png)
 ![pepe](https://user-images.githubusercontent.com/49744580/104023252-b9791880-5204-11eb-9989-0c8a40c23738.png)
 </div>
+
 ## 가로선 넣기
     가로선의 경우 하이픈(-), 별(*), 언더스코어(_) 중 아무 것이나 연달아 세 개 이상 입력하면 적용됩니다.
     ex) ------------------
