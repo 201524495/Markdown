@@ -78,6 +78,9 @@
     Issue를 통해 만든 웹 이미지
     ex) ![github_logo](https://user-images.githubusercontent.com/49744580/104023246-b7af5500-5204-11eb-9b82-a85b4a1a16c1.png)
     ex) ![pepe](https://user-images.githubusercontent.com/49744580/104023252-b9791880-5204-11eb-9989-0c8a40c23738.png)
+    파일의 위치를 이용해 사용 & 크기 설정
+    ex) ![title](/github_logo.png){: width="100" height="100"}
+    ex) ![title](/pepe.png){: width="100" height="100"}
 
 
 ![깃헙 이미지](https://github.com/201524495/Markdown_Guid/blob/main/github_logo.png)
@@ -86,6 +89,8 @@
 ![github_logo](https://user-images.githubusercontent.com/49744580/104023246-b7af5500-5204-11eb-9b82-a85b4a1a16c1.png)
 ![pepe](https://user-images.githubusercontent.com/49744580/104023252-b9791880-5204-11eb-9989-0c8a40c23738.png)
 
+![github_logo](/github_logo.png){: width="100" height="100"}
+![pepe](/pepe.png){: width="100" height="100"}
 
 ## 가로선 넣기
     가로선의 경우 하이픈(-), 별(*), 언더스코어(_) 중 아무 것이나 연달아 세 개 이상 입력하면 적용됩니다.
