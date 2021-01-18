@@ -89,7 +89,7 @@
 ![github_logo](https://user-images.githubusercontent.com/49744580/104023246-b7af5500-5204-11eb-9b82-a85b4a1a16c1.png)
 ![pepe](https://user-images.githubusercontent.com/49744580/104023252-b9791880-5204-11eb-9989-0c8a40c23738.png)
 
-<img src="./github_logo.png" width="100" height="100">
+<img src="./github_logo.png" width="100" height="100"> 
 <img src="./pepe.png" width="100" height="100">
 
 ## 가로선 넣기
